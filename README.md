@@ -32,6 +32,6 @@ To design a clean, data-driven dashboard that provides quick business insights a
 <img width="1207" height="669" alt="Screenshot 2025-10-31 194741" src="https://github.com/user-attachments/assets/a1230818-c89c-47c2-8d83-635764fe5613" />
 # 🧑‍💻 Author
 
- Shivani Panchal
+ **Shivani Panchal**
  
  http://linkedin.com/in/shivani-panchal-4336a231b
